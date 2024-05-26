@@ -1,0 +1,15 @@
+/home/carvalhoarthur/dev/repos/AlunoNotas/bin/Debug/net8.0/AlunoNotas
+/home/carvalhoarthur/dev/repos/AlunoNotas/bin/Debug/net8.0/AlunoNotas.deps.json
+/home/carvalhoarthur/dev/repos/AlunoNotas/bin/Debug/net8.0/AlunoNotas.runtimeconfig.json
+/home/carvalhoarthur/dev/repos/AlunoNotas/bin/Debug/net8.0/AlunoNotas.dll
+/home/carvalhoarthur/dev/repos/AlunoNotas/bin/Debug/net8.0/AlunoNotas.pdb
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.GeneratedMSBuildEditorConfig.editorconfig
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.AssemblyInfoInputs.cache
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.AssemblyInfo.cs
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.csproj.CoreCompileInputs.cache
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.sourcelink.json
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.dll
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/refint/AlunoNotas.dll
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.pdb
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/AlunoNotas.genruntimeconfig.cache
+/home/carvalhoarthur/dev/repos/AlunoNotas/obj/Debug/net8.0/ref/AlunoNotas.dll
